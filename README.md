@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently just a newbie <br>🌱 I’m currently learning Information Security<br>💬 I'm a CSGO, Valorant player<br>⚡ Fun fact: My personality is heavily influenced by a fictional character 
+🔭 I’m just a newbie <br>🌱 I’m currently learning Information Security<br>💬 I'm a CSGO, Valorant player<br>⚡ Fun fact: My personality is heavily influenced by a fictional character 
 
 
 ## 🌐 Socials:
