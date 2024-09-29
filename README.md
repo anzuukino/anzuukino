@@ -4,10 +4,10 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yuu_2802) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_anzuukino_) 
+<a href="https://open.spotify.com/user/t3qphw1ykhbix42jqklal0tw8" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify" title="anzuukino"></a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anzuukino&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anzuukino&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=anzuukino&icon=0&color=1)](https://visitcount.itsvg.in)
