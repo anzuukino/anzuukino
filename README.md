@@ -3,7 +3,7 @@
 🔭 A CTF player <br>🌱 I’m currently learning Information Security<br>💬 I play some games like CSGO or Valorant<br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yuu_2802) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_anzuukino_) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yuu_2802) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/npd_2802) 
 <a href="https://open.spotify.com/user/t3qphw1ykhbix42jqklal0tw8" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify" title="anzuukino"></a>
 
 # 📊 GitHub Stats:
